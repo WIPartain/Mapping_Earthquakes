@@ -1,13 +1,13 @@
 # Mapping_Earthquakes
 
-![](earthquakes.jpg)
+![](earthquakes.png)
 
-![](earthquakes2.jpg)
+![](earthquakes2.png)
 
-![](earthquake3.jpg)
+![](earthquake3.png)
 
-![](earthquake4.jpg)
+![](earthquake4.png)
 
-![](earthquakes5.jpg)
+![](earthquakes5.png)
 
-![](earthquakes6.jpg)
+![](earthquakes6.png)
