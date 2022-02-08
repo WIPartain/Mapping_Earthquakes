@@ -1,13 +1,13 @@
 # Mapping_Earthquakes
 
-![](earthquakes.png)
+![](https://github.com/WIPartain/Mapping_Earthquakes/blob/main/images/earthquakes.png)
 
-![](earthquakes2.png)
+![](https://github.com/WIPartain/Mapping_Earthquakes/blob/main/images/earthquakes2.png)
 
-![](earthquake3.png)
+![](https://github.com/WIPartain/Mapping_Earthquakes/blob/main/images/earthquake3.png)
 
-![](earthquake4.png)
+![](https://github.com/WIPartain/Mapping_Earthquakes/blob/main/images/earthquake4.png)
 
-![](earthquakes5.png)
+![](https://github.com/WIPartain/Mapping_Earthquakes/blob/main/images/earthquakes5.png)
 
-![](earthquakes6.png)
+![](https://github.com/WIPartain/Mapping_Earthquakes/blob/main/images/earthquakes6.png)
